@@ -28,8 +28,12 @@ namespace Lab4
 			Console.WriteLine();
 			quick.checkSortCorrect();*/
 			//bubble.RunFullBubble("BubbleTest1.txt");
-			//naiveQuick.RunFullNaiveQuick("NaiveQuickTest1.txt");
-			merge.RunFullMerge("MergeTest1.txt");
+			//naiveQuick.RunFullNaiveQuick("NaiveQuickTest2.txt");
+			//merge.RunFullMerge("MergeTest2.txt");
+			//quick.RunFullQuick("QuickTest1.txt");
+			//insertion.RunFullInsertion("InsertionTest1.txt");
+			//naiveQuick.RunFullNaiveQuickSorted("NaiveSorted.txt");
+			//quick.RunFullQuickSorted("QuickSorted.txt");
 		}
 	}
 }

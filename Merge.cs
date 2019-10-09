@@ -10,7 +10,7 @@ class Merge
 	static int MAXVALUE = 50000;
 	static int MINVALUE = -50000;
 	static int MININPUT = 1;
-	static int MAXINPUT = Convert.ToInt32(Math.Pow(2, 10));
+	static int MAXINPUT = Convert.ToInt32(Math.Pow(2, 15));
 	static int numberOfTrials = 10000;
 	Random random = new Random();
 
